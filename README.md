@@ -1,1 +1,3 @@
 # zeromcapi
+
+VIETATO USARE COME BASE QUESTA GIT
